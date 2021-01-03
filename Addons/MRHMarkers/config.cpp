@@ -18,7 +18,7 @@ class CfgPatches {
 /////=========cfgNotifications=====
 class cfgMarkers
 {
-#include"\MRHMarkers\cfgmarkers.hpp"
+// #include"\MRHMarkers\cfgmarkers.hpp"
 };
 ////=============fincfgNotifications
 /* template pour inclure des textures de brosse
